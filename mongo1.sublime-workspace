@@ -1,0 +1,429 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cls",
+				"ClassList"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"sec",
+				"secondsDegree"
+			],
+			[
+				"secon",
+				"secondHand"
+			],
+			[
+				"seco",
+				"secondHand"
+			],
+			[
+				"seconds",
+				"secondsDegree"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"date_de",
+				"date_default_timezone_set"
+			],
+			[
+				"get",
+				"getUTCFullYear"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			],
+			[
+				"prev",
+				"prevSlide"
+			],
+			[
+				"next",
+				"nextSlide"
+			],
+			[
+				"auto",
+				"autoswith_speed"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"aut",
+				"autoswitch"
+			],
+			[
+				"spee",
+				"speed"
+			],
+			[
+				"dia",
+				"diaSeleccionado"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 73.0,
+		"last_filter": "emoji ",
+		"selected_items":
+		[
+			[
+				"emoji ",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"emo",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"babel",
+				"Babel Transform"
+			],
+			[
+				"babe",
+				"Preferences: Babel – User"
+			],
+			[
+				"emoji",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"stop",
+				"SublimeServer: Stop SublimeServer"
+			],
+			[
+				"start",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"em",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"pug",
+				"Build With: Pug"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 366.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/adriancarmiol/Documents/MongoDB/catalog"
+	],
+	"file_history":
+	[
+		"/Users/adriancarmiol/Documents/ES6_WesBos/es6.io/02 - Arrow functions/when-not-to-use-arrows.html",
+		"/Users/adriancarmiol/Documents/ES6_WesBos/myCode/index_01_NewVariables.html",
+		"/Users/adriancarmiol/Library/Application Support/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/Users/adriancarmiol/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/Users/adriancarmiol/Documents/ES6_WesBos/es6.io/03 - Template Strings/template-strings-html.html",
+		"/Users/adriancarmiol/Documents/nodejs_projects/nodeauth/routes/users.js",
+		"/Users/adriancarmiol/Documents/nodejs_projects/nodeauth/app.js",
+		"/Users/adriancarmiol/Documents/nodejs_projects/nodeauth/models/user.js",
+		"/Users/adriancarmiol/Documents/nodejs_projects/nodeauth/routes/index.js",
+		"/Users/adriancarmiol/Downloads/nodeauth 3/app.js",
+		"/Users/adriancarmiol/Downloads/nodeauth 3/models/user.js",
+		"/Users/adriancarmiol/Downloads/nodeauth 3/routes/users.js",
+		"/Users/adriancarmiol/Documents/nodejs_projects/nodeauth/node_modules/express/lib/router/index.js",
+		"/Users/adriancarmiol/Downloads/nodeauth 2/models/user.js",
+		"/Users/adriancarmiol/Documents/nodejs_projects/nodeauth/package.json",
+		"/Users/adriancarmiol/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/adriancarmiol/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/adriancarmiol/Documents/JavaScript30-master/03 - CSS Variables/index-FINISHED.html",
+		"/Users/adriancarmiol/Documents/JavaScript30-master/03 - CSS Variables/index-START.html",
+		"/Users/adriancarmiol/Documents/JavaScript30-master/02 - JS and CSS Clock/index-FINISHED.html",
+		"/Users/adriancarmiol/Documents/nodejs_projects/exps_site01/views/index.pug",
+		"/Users/adriancarmiol/Documents/nodejs_projects/exps_site01/views/layout.pug",
+		"/Users/adriancarmiol/Documents/nodejs_projects/exps_site01/app.js",
+		"/Users/adriancarmiol/Documents/nodejs_projects/exps_site01/public/stylesheets/bootstrap.css",
+		"/Users/adriancarmiol/Downloads/express_website/app.js",
+		"/Users/adriancarmiol/Documents/nodejs_projects/simple_server/server.js",
+		"/Users/adriancarmiol/Downloads/Program Files 7/jsshoutbox/js/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/ChatRoom/bridge.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/hello.php",
+		"/Users/adriancarmiol/Documents/jquery/index.html",
+		"/Users/adriancarmiol/Documents/testhtml.html",
+		"/Users/adriancarmiol/Documents/test_counter.js",
+		"/Users/adriancarmiol/Documents/JSandJQueryPractice/ContentSlider_udemy_012316/Program Files/contentslider/css/style.css",
+		"/Users/adriancarmiol/Documents/JSandJQueryPractice/ContentSlider_udemy_012316/Program Files/contentslider/js/script.js",
+		"/Users/adriancarmiol/Documents/BV_Customers/Modcloth/Review1214_aca_0106.xml",
+		"/Users/adriancarmiol/Documents/Javascript_practice/0109/hello_world.js",
+		"/Users/adriancarmiol/Documents/Javascript_practice/0109/hello.html",
+		"/Users/adriancarmiol/Documents/BV_Customers/Modcloth/Review1214.xml",
+		"/Users/adriancarmiol/Documents/BV_Customers/Denon/misc_feed/Denon_Prod_Feed_prod_070816_aca.2016-07-08T16_20_57.xml",
+		"/Users/adriancarmiol/Documents/BV_Customers/WoltersKluwer/bv_ppe_tag_feed_LwwJournals_20161007.xml",
+		"/Users/adriancarmiol/Documents/BV_Customers/Himalaya/products.xml",
+		"/Users/adriancarmiol/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/adriancarmiol/Documents/BV_Customers/Denon/Denon_Prod_Feed_prod_070816_aca.2016-07-08T16_20_57.xml",
+		"/Users/adriancarmiol/Documents/BV_Customers/maybelline-na/prod/bv_maybelline_standard_client_feed.xml",
+		"/Users/adriancarmiol/Documents/BV_Customers/maybelline-na/output_final_091916.xml",
+		"/Users/adriancarmiol/Documents/BV_Customers/maybelline-na/bv_maybelline_standard_client_feed.xml",
+		"/Users/adriancarmiol/Documents/BV_Customers/Garnier/feed_071816_aca.2016-07-18T16_41_27.xml",
+		"/Users/adriancarmiol/Documents/BV_Customers/Himalaya/bv_himalaya_standard_client_feed.xml"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"passport",
+			"er",
+			"port",
+			"3000",
+			"\"",
+			"href",
+			"5",
+			"toothpaste",
+			"mint",
+			"toothpaste",
+			"hdnProductId",
+			"attribute",
+			"99999",
+			"pomegranate",
+			"original neem",
+			"1943",
+			"loreal",
+			"l'oreal",
+			"ora",
+			"oral",
+			"care"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mongo1.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
