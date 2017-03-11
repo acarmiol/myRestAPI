@@ -41,12 +41,45 @@ app.get('/api/products/:id', (req, res, next) => {
 
 
 //Now submmiting data to the api.  Adding product
-app.post('/api/products',(req,res, send)=>{
-	res.send(`Add Product`);
+app.post('/api/products',(req,res,send)=>{
+	db.products.insert(req.body, (err, doc)=>{
+		if(err){
+			res.send(err);
+		}
+		console.log('adding product...');
+		res.json(doc)
+	})
 });
-app.delete('/api/products/:id',(req,res,next)=>{
-	res.send(`Delete product ${req.params.id}`);
+
+// Update product
+app.put('/api/products/:id', (req, res, next) => {
+  db.products.findAndModify({query: {_id: mongojs.ObjectId(req.params.id)},
+    update:{
+      $set:{
+        name: req.body.name,
+        category: req.body.category,
+        details: req.body.details
+      }},
+      new: true }, (err, doc) => {
+        if(err){
+          res.send(err);
+        }
+        console.log('Updating Product...');
+        res.json(doc);
+      })
 });
+
+// Delete Product
+app.delete('/api/products/:id', (req, res, next) => {
+  db.products.remove({_id: mongojs.ObjectId(req.params.id)}, (err, doc) => {
+    if(err){
+      res.send(err);
+    }
+    console.log('Removing Product...');
+    res.json(doc);
+  });
+});
+
 
 
 
